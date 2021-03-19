@@ -1,4 +1,4 @@
-SmartTaskbar  <img src="https://github.com/ChanpleCai/SmartTaskbar/blob/master/logo/logo_blue.png" width="24">
+SmartTaskbar  <img src="https://github.com/ChanpleCai/SmartTaskbar/raw/net5/logo/logo_blue.png" width="24">
 =====
 [![Version](https://badge.fury.io/gh/ChanpleCai%2FSmartTaskbar.svg)](https://github.com/ChanpleCai/SmartTaskbar/releases/download/v1.1.9/SmartTaskbar_Setup.exe)
 [![Latest Release](https://img.shields.io/github/downloads/ChanpleCai/SmartTaskbar/latest/total.svg)](https://github.com/ChanpleCai/SmartTaskbar/releases/download/v1.1.9/SmartTaskbar_Setup.exe)
@@ -9,7 +9,7 @@ SmartTaskbar  <img src="https://github.com/ChanpleCai/SmartTaskbar/blob/master/l
 
 * SmartTaskbar is a lightweight utility which can automatically switch the display state of the Windows Taskbar.
   
-![img](https://github.com/ChanpleCai/SmartTaskbar/blob/master/demo/Context_Menu.gif)
+![img](https://github.com/ChanpleCai/SmartTaskbar/raw/net5/demo/Context_Menu.gif)
 
 * A streamlined version that supports high DPI is now available on [Microsoft Store](https://www.microsoft.com/en-us/p/smarttaskbar/9pjm69mps6t9?activetab=pivot%3aoverviewtab).
 
@@ -28,7 +28,7 @@ Features
 
   当没有窗体最大化时，它会自动使任务栏显示
 
-![img](https://github.com/ChanpleCai/SmartTaskbar/blob/master/demo/Hide_Show.gif)
+![img](https://github.com/ChanpleCai/SmartTaskbar/raw/net5/demo/Hide_Show.gif)
 
 #### Adaptive Mode
 
@@ -40,13 +40,13 @@ Features
 
   当没有窗体最大化时，任务栏图标恢复默认尺寸
 
-![img](https://github.com/ChanpleCai/SmartTaskbar/blob/master/demo/Adaptive_Mode.gif)
+![img](https://github.com/ChanpleCai/SmartTaskbar/raw/net5/demo/Adaptive_Mode.gif)
 
 * Double-click the tray icon to switch the display status of the taskbar between Show or Auto-Hide.
   
     双击系统托盘图标切换任务栏显示和隐藏状态
   
-![img](https://github.com/ChanpleCai/SmartTaskbar/blob/master/demo/Double-click.gif)
+![img](https://github.com/ChanpleCai/SmartTaskbar/raw/net5/demo/Double-click.gif)
 
 * [Click for more demo 点击查看更多演示](https://github.com/ChanpleCai/SmartTaskbar/tree/master/demo)
 
@@ -56,7 +56,7 @@ Installation
 
   从[releases](https://github.com/ChanpleCai/SmartTaskbar/releases)下载：
   
-  [![Download Now](https://github.com/ChanpleCai/SmartTaskbar/blob/master/img/Download_Softpedia.png)](https://github.com/ChanpleCai/SmartTaskbar/releases/download/v1.1.9/SmartTaskbar_Setup.exe) 
+  [![Download Now](https://github.com/ChanpleCai/SmartTaskbar/raw/net5/img/Download_Softpedia.png)](https://github.com/ChanpleCai/SmartTaskbar/releases/download/v1.1.9/SmartTaskbar_Setup.exe) 
 
 * It will start running in the background after the installtion.
 
