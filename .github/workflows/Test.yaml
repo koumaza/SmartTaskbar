@@ -2,7 +2,7 @@ name: Test
 
 on:
   push:
-    branches: '*'
+    branches: [ koumaza/continuous-integration ]
   pull_request:
     branches: [ net5 ]
 
